@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
 body {
 
   /* ============================================================= */
@@ -32,7 +34,7 @@ body {
   --cd-faded-background-color: #f8f8f8;
 
   /* Background Extras */
-  --cd-body-background-image: url();
+  --cd-body-background-image: url(https://images.unsplash.com/photo-1514907283155-ea5f4094c70c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170);
 
   /* ============================================================= */
   /* Text
@@ -62,8 +64,8 @@ body {
   /* ============================================================= */
   /* Main Fonts
   ================================================================ */
-  --cd-body-font-family: 'Montserrat', sans-serif;
-  --cd-header-font-family: 'Comfortaa', sans-serif;
+  --cd-body-font-family: 'Pangolin', cursive;
+  --cd-header-font-family: 'Borel', cursive;
   
   /* ============================================================= */
   /* Rarities
