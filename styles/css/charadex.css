@@ -770,13 +770,16 @@ p:last-child {
   color: var(--cd-rarity-rare-txt);
 }
 
-.badge-veryrare {
+.badge-legendary {
   background-color: var(--cd-rarity-veryrare-bg);
   color: var(--cd-rarity-veryrare-txt);
 }
 
-.badge-legendary,
 .badge-mythic {
-  background-color: var(--cd-rarity-legendary-bg);
-  color: var(--cd-rarity-legendary-txt);
+  background-color: var(--cd-rarity-mythical-bg);
+  color: var(--cd-rarity-mythical-txt);
 }
+
+.badge-mutation {
+  background-color: var(--cd-rarity-mutation-bg);
+  color: var(--cd-rarity-mutation-txt);
